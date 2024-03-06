@@ -80,7 +80,7 @@ body {
         border-radius: 16px;
 
         &_text {
-            =======&:hover {
+            &:hover {
                 outline: 3px solid #44D2FF;
             }
 
@@ -105,3 +105,4 @@ body {
             outline: 3px solid #44D2FF;
         }
     }
+}

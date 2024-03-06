@@ -73,7 +73,10 @@ body {
   height: 300px;
   border-radius: 16px;
 }
-.mid__game_text {
+.mid__game_text:hover {
+  outline: 3px solid #44D2FF;
+}
+.mid__game_text-text {
   position: absolute;
   left: 32px;
   top: 236px;
@@ -84,9 +87,9 @@ body {
   line-height: 32px;
   color: #FFFFFF;
 }
-.mid__game_text:hover {
+.mid__game_text_text:hover {
   text-decoration: underline;
 }
-.mid__game:hover {
+.mid__game__game:hover {
   outline: 3px solid #44D2FF;
 }/*# sourceMappingURL=style.css.map */
